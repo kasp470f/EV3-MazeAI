@@ -2,6 +2,7 @@
 
 ### Beskrivelse
 Denne "AI" har evnen til at navigere hvilken som helst labyrint den bliver puttet i. Så længe alle variabler er opfyldt.
+Filen AI.ev3 er altid den nyeste version af denne ev3
 
 ###### Lavet i samarbejde med:
 - Frederik Friis
