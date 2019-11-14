@@ -1,4 +1,4 @@
-# EV3-MazeAI
+# EV3-MazeAI - afsluttet
 
 ### Beskrivelse
 Denne "AI" har evnen til at navigere hvilken som helst labyrint den bliver puttet i. Så længe alle variabler er opfyldt.
